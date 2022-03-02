@@ -66,7 +66,7 @@ function ContactForm() {
             return (
               <>
                 <FaCheckCircle color="green" size="200" />
-                <p>Thank you for submitting, I'll reach out to you!</p>
+                <p>Thank you for submitting, I&apos;ll reach out to you!</p>
               </>
             )
           } else if (status == "unsuccessful")
